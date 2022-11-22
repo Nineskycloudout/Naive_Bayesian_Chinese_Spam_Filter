@@ -1,6 +1,6 @@
 # Naive_Bayesian_Chinese_Spam_Filter
 ## 朴素贝叶斯垃圾邮件分类器
-项目使用python3编写
+项目使用python3编写  
 数据集使用trec06c，下载连接:<https://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/foo06>  
 文件结构:  
 ├─NB.py  

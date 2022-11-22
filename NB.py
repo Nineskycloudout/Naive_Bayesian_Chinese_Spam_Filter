@@ -150,7 +150,7 @@ def detection(PHam, PSpam):
     # 召回率
     recall = TP / (TP + FN) * 100
     print('Test finish')
-    print('accuracy:{}%'.format(accuracy))
+    print('Accuracy:{}%'.format(accuracy))
     print('Precision:{}%'.format(precision))
     print('Recall:{}%'.format(recall))
 

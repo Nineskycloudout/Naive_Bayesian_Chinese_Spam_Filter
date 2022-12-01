@@ -1,4 +1,3 @@
-# 数据预处理程序，将Ham和Spam邮件分类
 import re
 import jieba
 import numpy as np
